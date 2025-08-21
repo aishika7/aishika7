@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="Gradient Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="Gradient Header" />
 </p>
 
 ## Hi there 👋, 
@@ -113,5 +113,5 @@
 ✨ _“Code. Create. Contribute.”_
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer" alt="Gradient Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Gradient Footer" />
 </p>
