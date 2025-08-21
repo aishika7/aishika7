@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="Gradient Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="Gradient Header" />
 </p>
 
 ## Hi there 👋, 
@@ -96,7 +96,7 @@
 ---
 
 ## 📫 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/aishikamajumdar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -112,4 +112,6 @@
 
 ✨ _“Code. Create. Contribute.”_
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer" alt="Gradient Footer" />
+</p>
