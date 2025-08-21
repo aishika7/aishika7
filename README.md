@@ -1,14 +1,14 @@
-# Hi there 👋, I'm Aishika Majumdar  
+# Hi there 👋, 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D88FF&width=435&lines=Final+Year+CS+Student;Full-Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Explorer;Always+Learning)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D88FF&width=435&lines=I'm+Aishika+Majumdar)
 
 ---
 
 ## 🚀 About Me
 🎓 Final-year Computer Science student at **Brainware University (CGPA: 9.4)**  
 💻 Passionate about **Web Development, AI/ML, and UI/UX Design**  
-🤝 Love collaborating in **hackathons, contests, and open-source projects**  
-⚡ Fun fact: I’m also a footballer, gamer 🎮, and passionate about art 🎨  
+🤝 Love exploring and collaborating in **hackathons, contests, and open-source projects**  
+⚡ Fun fact: I’m also a Jack of all trades and passionate about art 🎨  
 
 ---
 
