@@ -58,9 +58,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Aishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishika7&show_icons=true&theme=transparent)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishika7&layout=compact&theme=transparent)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aishika7&show_icons=true&theme=rose_pine" alt="Aishika's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishika7&layout=compact&theme=rose_pine" alt="Top Languages" height="180" />
+</p>
 ---
 
 ## 🔥 Streaks and Trophies
