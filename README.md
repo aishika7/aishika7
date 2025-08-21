@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aishika%20Majumdar&fontSize=40&fontColor=ffffff&animation=twinkling)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="Gradient Header" />
+</p>
 
 ## Hi there 👋, 
 
@@ -110,4 +112,4 @@
 
 ✨ _“Code. Create. Contribute.”_
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aishika%20Majumdar&fontSize=40&fontColor=ffffff&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200)
