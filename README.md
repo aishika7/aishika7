@@ -1,4 +1,4 @@
-# Hi there 👋, 
+## Hi there 👋, 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D88FF&width=435&lines=I'm+Aishika+Majumdar)
 
