@@ -1,17 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="Gradient Header" />
-</p>
-
-## Hi there 👋, 
-
 <h1 align="center">
-  <b>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4D88FF&width=600&lines=I'm+Aishika+Majumdar" alt="Typing SVG" />
-  </b>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hii+there+👋;+I'm+Aishika+Majumdar;+Welcome+to+my+Github;+Have+a+look+around!!!">
 </h1>
-
----
-
+<h3 align="center"> Budding Fullstack Developer | AI/ML Enthusiast | UI/UX Designer </h3>
 ## 🚀 About Me
 🎓 Final-year Computer Science student at **Brainware University (CGPA: 9.4)**  
 💻 Passionate about **Web Development, AI/ML, and UI/UX Design**  
