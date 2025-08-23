@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hii+there+👋;+I'm+Aishika+Majumdar;+Welcome+to+my+Github;+Have+a+look+around!!!">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hii+there+👋;+I'm+Aishika+Majumdar;+Welcome+to+my+Github">
 </h1>
 <h3 align="center"> Budding Fullstack Developer | AI/ML Enthusiast | UI/UX Designer </h3>
 
