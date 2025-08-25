@@ -83,14 +83,6 @@
 
 ---
 
-## 💼 Internships & Training
-- 🏢 **Blockchain, Big Data & Data Science** – Hands-on training in analytics & blockchain fundamentals  
-- 🏢 **Ardent (MEAN Stack)** – Built full e-learning platform from scratch  
-- 🏢 **Intel Unnati** – Bug Detection Model using ML/DL  
-- 🏢 **TechSaksham (Microsoft & SAP)** – AI-powered healthcare chatbot  
-
----
-
 ## 📫 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/aishikamajumdar/">
