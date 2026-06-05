@@ -5,10 +5,10 @@
 <h1 align="center">
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=00008B&width=500&height=70&duration=4000&lines=Hii+there+👋;+I'm+Aishika+Majumdar;+Welcome+to+my+Github">
 </h1>
-<h3 align="center"> Budding Fullstack Developer | AI/ML Enthusiast | UI/UX Designer </h3>
+<h3 align="center"> SDE | Fullstack Developer | AI/ML Enthusiast | UI/UX Designer </h3>
 
 ## 🚀 About Me
-🎓 Final-year Computer Science student at **Brainware University (CGPA: 9.4)**  
+🎓 Final-year Computer Science student at **Brainware University (CGPA: 9.3)**  
 💻 Passionate about **Web Development, AI/ML, and UI/UX Design**  
 🤝 Love exploring and collaborating in **hackathons, contests, and open-source projects**  
 ⚡ Fun fact: I’m also a Jack of all trades and passionate about art 🎨  
@@ -49,27 +49,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishika7&show_icons=true&theme=rose_pine" alt="Aishika's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishika7&layout=compact&theme=rose_pine" alt="Top Languages" height="180" />
-</p>
----
-
-## 🔥 Streaks and Trophies
-![GitHub Streak](https://streak-stats.demolab.com?user=aishika7&theme=transparent&hide_border=true)  
-![trophy](https://github-profile-trophy.vercel.app/?username=aishika7&theme=transparent&no-frame=true&margin-w=15&margin-h=15)
-
----
-
-## 🏆 Highlights & Achievements
-- 🥇 **Winner** – Byte Tales @ Exabyte ’25  
-- 🥈 **District Champion** – Declamation @ Yuva Utsab 2024  
-- 🎤 **Finalist** – Naukri Campus Young Turks ’24  
-- 🤖 **Finalist** – Prompters AI Contest (Texibition ’24)  
 
 ---
 
